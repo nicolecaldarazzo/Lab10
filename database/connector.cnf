@@ -1,6 +1,7 @@
 [client]
 user=root
-password=root
+password=nicole1!
 host=127.0.0.1
-database=test
+port=3307
+database=countries
 raise_on_warnings=True
